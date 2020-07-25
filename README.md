@@ -1,2 +1,2 @@
 # telegram-notify
-Telegram Notifications
+Send Notifications to Telegram from console/terminal
